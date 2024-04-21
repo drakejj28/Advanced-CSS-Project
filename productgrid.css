@@ -1,0 +1,25 @@
+body {
+  background: linear-gradient(to right, #123524, darkgray); 
+  display: grid;
+  place-items: center;
+}
+
+.row {
+  display: flex;
+  }
+  
+  .column {
+    flex: 33.33%;
+    padding: 5px;
+    font-family: 'Yuji Boku', serif;
+    text-align: center;
+    color: beige;
+  }
+
+  .product-titles {
+    text-align: center;
+    font-family: 'Yuji Boku', serif;
+    color: lightgray;
+  }
+
+  
